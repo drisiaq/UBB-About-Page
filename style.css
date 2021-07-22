@@ -1,0 +1,30 @@
+html{
+  width: 100%;
+}
+header{
+  background-color: #427BFF;
+  color: #ffffff;
+  padding: 70px;
+   text-align: center;
+}
+div.container{
+  background-color: #ffffff; 
+  padding: 70px 0;
+  width: 50%;
+  margin: auto;
+}
+h2, .container>p{
+  color: #22252A;
+
+}
+.container{
+  opacity: 0.8;
+}
+li{
+  opacity: 0.7;
+}
+footer{
+  background-color: #22252A;
+  padding: 20px;
+  opacity: 0.1;
+}
